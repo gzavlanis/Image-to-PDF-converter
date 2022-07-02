@@ -1,0 +1,17 @@
+Image to PDF converter version 1
+
+Button 1 "Single image to PDF" Converts a single image to pdf file
+
+Button 2 "Multiple images to PDF" Converts multiple images and combine them to a single pdf file
+
+Button 3 "PDF to multiple images" Converts a pdf to multiple image files (jpg format)
+
+Button 4 "Quit" Terminates the application
+
+
+
+
+
+
+Copyrights by Georgios Zavlanis
+Github: https://github.com/gzavlanis
